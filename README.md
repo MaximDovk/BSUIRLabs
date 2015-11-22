@@ -1,2 +1,3 @@
 # BSUIRLabs
-Reports of my lab works
+Subjects:
+	OAiP - Basics of algorithms and programming
