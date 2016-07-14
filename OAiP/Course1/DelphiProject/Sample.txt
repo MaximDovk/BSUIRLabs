@@ -1,0 +1,5 @@
+@CI@sin(Pi/6/x)@@
+юаб
+X ACOS COS 
+A B +
+11.00000
